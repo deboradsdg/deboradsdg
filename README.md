@@ -12,7 +12,7 @@ Se quiser trocar uma ideia ou colaborar em algum projeto, sinta-se à vontade pa
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em estudo
 
 <img 
     align="left" 
